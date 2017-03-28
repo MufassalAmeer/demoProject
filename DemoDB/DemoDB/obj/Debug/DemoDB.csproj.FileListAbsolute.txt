@@ -1,0 +1,9 @@
+c:\users\mufas\documents\visual studio 2017\Projects\DemoDB\DemoDB\bin\Debug\DemoDB.exe.config
+c:\users\mufas\documents\visual studio 2017\Projects\DemoDB\DemoDB\bin\Debug\DemoDB.exe
+c:\users\mufas\documents\visual studio 2017\Projects\DemoDB\DemoDB\bin\Debug\DemoDB.pdb
+c:\users\mufas\documents\visual studio 2017\Projects\DemoDB\DemoDB\obj\Debug\DemoDB.csprojResolveAssemblyReference.cache
+c:\users\mufas\documents\visual studio 2017\Projects\DemoDB\DemoDB\obj\Debug\DemoDB.Properties.Resources.resources
+c:\users\mufas\documents\visual studio 2017\Projects\DemoDB\DemoDB\obj\Debug\DemoDB.csproj.GenerateResource.Cache
+c:\users\mufas\documents\visual studio 2017\Projects\DemoDB\DemoDB\obj\Debug\DemoDB.exe
+c:\users\mufas\documents\visual studio 2017\Projects\DemoDB\DemoDB\obj\Debug\DemoDB.pdb
+c:\users\mufas\documents\visual studio 2017\Projects\DemoDB\DemoDB\obj\Debug\DemoDB.Form1.resources
